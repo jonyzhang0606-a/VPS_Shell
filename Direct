@@ -6,6 +6,11 @@ DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,zhixueyun.com
 DOMAIN-SUFFIX,sougou.com
 
+# douyin
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,zijieapi.com
+
 
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
