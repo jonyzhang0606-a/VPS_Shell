@@ -10,7 +10,15 @@ DOMAIN-SUFFIX,sougou.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,zijieapi.com
-
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,huoshanstatic.com
+DOMAIN-SUFFIX,bytedance.com
+DOMAIN-SUFFIX,byteeffecttos.com
 
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
