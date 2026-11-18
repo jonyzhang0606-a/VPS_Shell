@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,zhixueyun.com
 DOMAIN-SUFFIX,sougou.com
+DOMAIN-SUFFIX,so123.com
 
 # douyin
 DOMAIN-SUFFIX,douyin.com
@@ -23,6 +24,8 @@ DOMAIN-SUFFIX,bytetcc.com
 DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytefcdnrd.com
 
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
