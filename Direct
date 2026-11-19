@@ -1,25 +1,14 @@
 # bilibili
-DOMAIN-SUFFIX,ourdvsss.com
-DOMAIN-SUFFIX,00cdn.com
-DOMAIN-SUFFIX,ksyungslb.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,bstarstatic.com
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,animetamashi.cn
-DOMAIN-SUFFIX,animetamashi.com
 DOMAIN-SUFFIX,anitama.cn
-DOMAIN-SUFFIX,anitama.net
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,baka.im
 DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,bili22.cn
 DOMAIN-SUFFIX,bili2233.cn
 DOMAIN-SUFFIX,bili23.cn
 DOMAIN-SUFFIX,bili33.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.cc
 DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bilibili.co
@@ -31,40 +20,8 @@ DOMAIN-SUFFIX,bilibiligame.co
 DOMAIN-SUFFIX,bilibiligame.net
 DOMAIN-SUFFIX,bilibilipay.cn
 DOMAIN-SUFFIX,bilibilipay.com
-DOMAIN-SUFFIX,bilicdn1.com
-DOMAIN-SUFFIX,bilicdn2.com
-DOMAIN-SUFFIX,bilicdn3.com
-DOMAIN-SUFFIX,bilicdn4.com
-DOMAIN-SUFFIX,bilicdn5.com
-DOMAIN-SUFFIX,bilicomics.com
 DOMAIN-SUFFIX,biligame.cn
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,biligo.com
-DOMAIN-SUFFIX,biliimg.com
-DOMAIN-SUFFIX,biliintl.co
-DOMAIN-SUFFIX,biliintl.com
-DOMAIN-SUFFIX,biliplus.com
 DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.net
-DOMAIN-SUFFIX,corari.com
-DOMAIN-SUFFIX,dreamcast.hk
-DOMAIN-SUFFIX,dyhgames.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,kunlunhuf.com
-DOMAIN-SUFFIX,kunlunpi.com
-DOMAIN-SUFFIX,hdslb.net
-DOMAIN-SUFFIX,hdslb.org
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,maoercdn.com
-DOMAIN-SUFFIX,mcbbs.net
-DOMAIN-SUFFIX,mincdn.com
-DOMAIN-SUFFIX,sharejoytech.com
-DOMAIN-SUFFIX,smtcdns.net
-DOMAIN-SUFFIX,yfcdn.net
-DOMAIN-SUFFIX,yo9.com
 USER-AGENT,*bili*,BiliBili
 USER-AGENT,Bilibili*,BiliBili
 USER-AGENT,bili*,BiliBili
@@ -79,8 +36,6 @@ IP-CIDR,134.175.207.130/32,BiliBili
 IP-CIDR,203.107.1.0/24,BiliBili
 
 # zhihu
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
 IP-CIDR,103.41.167.226/32
 IP-CIDR,103.41.167.234/31
 IP-CIDR,103.41.167.236/32
@@ -89,122 +44,14 @@ IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 
 
 # xiaohongshu
-
-# NAME: XiaoHongShu
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:18:50
-# DOMAIN-SUFFIX: 4
-# TOTAL: 4
 DOMAIN-SUFFIX,fengkongcloud.com
-DOMAIN-SUFFIX,xhscdn.com
-DOMAIN-SUFFIX,xhscdn.net
-DOMAIN-SUFFIX,xiaohongshu.com
 
 # douyin
-DOMAIN-SUFFIX,douyin.com
-DOMAIN-SUFFIX,iesdouyin.com
-DOMAIN-SUFFIX,huoshanstatic.com
-DOMAIN-SUFFIX,bytetcc.com
-DOMAIN-SUFFIX,byted-static.com
-DOMAIN-SUFFIX,bytefcdnrd.com
-DOMAIN-SUFFIX,douyinliving.com
 # https://github.com/blackmatrix7/ios_rule_script/issues/789
-DOMAIN-SUFFIX,bytednsdoc.com
-DOMAIN-SUFFIX,zjcdn.com
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,ixiguavideo.com
-DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,toutiao.com
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,awemeughun.com
-DOMAIN-SUFFIX,douyincdn.com
-DOMAIN-SUFFIX,douyinvod.com
-DOMAIN-SUFFIX,douyinpic.com
-DOMAIN-SUFFIX,douyinstatic.com
-DOMAIN-SUFFIX,idouyinvod.com
-DOMAIN-SUFFIX,byteactivity.com
 DOMAIN-SUFFIX,bytecdn.cn
-DOMAIN-SUFFIX,bytecdn.com
-DOMAIN-SUFFIX,byteeffecttos.com
-DOMAIN-SUFFIX,bytegecko.com
-DOMAIN-SUFFIX,bytegoofy.com
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,bytescm.com
-DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,bytemastatic.com
-DOMAIN-SUFFIX,bytetos.com
-DOMAIN-SUFFIX,byteacctimg.com
-DOMAIN-SUFFIX,bytednsdoc.com
-DOMAIN-SUFFIX,ecombdapi.com
-DOMAIN-SUFFIX,ecombdimg.com
-DOMAIN-SUFFIX,ecombdstatic.com
-DOMAIN-SUFFIX,ibytedapm.com
-DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,xycdn.com
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,zjcdn.com
 
-# NAME: ChinaMaxNoIP
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-10-28 05:43:26
-# DOMAIN: 270
-# DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 109881
-# USER-AGENT: 65
-# TOTAL: 110229
-DOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,ms
-DOMAIN-SUFFIX,anquan
-DOMAIN-SUFFIX,citic
-DOMAIN-SUFFIX,icbc
-DOMAIN-SUFFIX,shouji
-DOMAIN-SUFFIX,sina
-DOMAIN-SUFFIX,sohu
-DOMAIN-SUFFIX,tmall
-DOMAIN-SUFFIX,unicom
-DOMAIN-SUFFIX,wang
-DOMAIN-SUFFIX,xihuan
-DOMAIN-SUFFIX,xn--1qqw23a
-DOMAIN-SUFFIX,xn--3bst00m
-DOMAIN-SUFFIX,xn--3ds443g
-DOMAIN-SUFFIX,xn--55qw42g
-DOMAIN-SUFFIX,xn--55qx5d
-DOMAIN-SUFFIX,xn--5tzm5g
-DOMAIN-SUFFIX,xn--6frz82g
-DOMAIN-SUFFIX,xn--6qq986b3xl
-DOMAIN-SUFFIX,xn--8y0a063a
-DOMAIN-SUFFIX,xn--9et52u
-DOMAIN-SUFFIX,xn--9krt00a
-DOMAIN-SUFFIX,xn--czr694b
-DOMAIN-SUFFIX,xn--czrs0t
-DOMAIN-SUFFIX,xn--czru2d
-DOMAIN-SUFFIX,xn--fiq228c5hs
-DOMAIN-SUFFIX,xn--fiq64b
-DOMAIN-SUFFIX,xn--fiqs8s
-DOMAIN-SUFFIX,xn--fiqz9s
-DOMAIN-SUFFIX,xn--fjq720a
-DOMAIN-SUFFIX,xn--g2xx48c
-DOMAIN-SUFFIX,xn--hxt814e
-DOMAIN-SUFFIX,xn--imr513n
-DOMAIN-SUFFIX,xn--io0a7i
-DOMAIN-SUFFIX,xn--kput3i
-DOMAIN-SUFFIX,xn--nyqy26a
-DOMAIN-SUFFIX,xn--otu796d
-DOMAIN-SUFFIX,xn--rhqv96g
-DOMAIN-SUFFIX,xn--ses554g
-DOMAIN-SUFFIX,xn--unup4y
-DOMAIN-SUFFIX,xn--vhquv
-DOMAIN-SUFFIX,xn--vuq861b
-DOMAIN-SUFFIX,xn--xhq521b
-DOMAIN-SUFFIX,xn--zfr164b
-DOMAIN-SUFFIX,yun
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
 DOMAIN-KEYWORD,alipay
@@ -218,4 +65,3 @@ DOMAIN-KEYWORD,qiyi
 DOMAIN-KEYWORD,hnagroup
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,weibo
-
